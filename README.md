@@ -58,7 +58,6 @@ Claude asks the intake questions, drafts the BRD, audits it, and shows a summary
 ```
 outsystems-odc-brd/          <- repo root
   README.md
-  LICENSE
   odc-brd/                    <- the skill folder to install
     SKILL.md
     references/
