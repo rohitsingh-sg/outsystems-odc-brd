@@ -66,12 +66,4 @@ outsystems-odc-brd/          <- repo root
       intake-questions.md
 ```
 
-## Limitations
 
-- Not yet tested on many projects; improve it from what goes wrong.
-- Chunk sizes and Mentor limits are observations, not measured figures.
-- ODC hints in generated BRDs must be checked against your tenant's current features.
-
-## License
-
-MIT. See `LICENSE`.
